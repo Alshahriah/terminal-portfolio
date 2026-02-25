@@ -1,10 +1,10 @@
 # Hey, I'm Al Shahriah! ✌️
 
-Welcome to my corner of the web. This is just a place where I dump my projects and experiment with cool tech.
+Welcome to my corner of the web. This is just a place where I dump my projects and experiment.
 
 ## 🕹️ Why I built this?
 
-Honestly? I just wanted to try out some crazy animations and 3D stuff. I'm a big fan of that tech-noir, hacking-the-mainframe aesthetic, so I figured why not build a portfolio that feels like a futuristic terminal?
+Honestly? I just wanted to try out some crazy animations and 3D stuff.
 
 It's basically a playground for me to see how far I can push Framer Motion and Three.js without breaking things.
 
@@ -39,7 +39,7 @@ It's basically a playground for me to see how far I can push Framer Motion and T
 
 ## ☁️ Hosting
 
-This thing is ready to go on Cloudflare Pages. Just run `npm run build` and push the `out` folder. Easy.
+This thing is ready to go on Vercel. Just connect your GitHub repo and you're golden. Standard Next.js settings will work perfectly.
 
 ---
 
