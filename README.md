@@ -21,8 +21,8 @@ It's basically a playground for me to see how far I can push Framer Motion and T
 1. **Grab the code:**
 
    ```bash
-   git clone https://github.com/your-username/portfolio-v1.git
-   cd portfolio-v1
+   git clone https://github.com/Alshahriah/terminal-portfolio
+   cd terminal-portfolio
    ```
 
 2. **Install the goods:**
